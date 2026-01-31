@@ -18,7 +18,7 @@ User → ALB (Public Subnet) → EC2 (Private Subnet) → RDS
 ---
 
 ##  Architecture Diagram
-![Architecture-diagram](images/architecture-diagram.png)
+![Architecture-diagram](images/architecture-diagramm.png)
 
 ---
 
