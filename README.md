@@ -15,8 +15,10 @@ NGINX is installed on private EC2 instances and accessed from a browser through 
 
 User → ALB (Public Subnet) → EC2 (Private Subnet) → RDS
 
+---
+
 ##  Architecture Diagram
-![AWS 3-Tier Architecture](images/architecture-diagram.png)
+![Architecture-diagram](images/architecture-diagram.png)
 
 ---
 
